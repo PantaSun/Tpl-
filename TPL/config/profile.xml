@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <taglib>
+    <name>webname</name>
+    <value>tpl模板</value>
+  </taglib>
+  <taglib>
+    <name>test</name>
+    <value>2333333332233</value>
+  </taglib>
+
+</root>
